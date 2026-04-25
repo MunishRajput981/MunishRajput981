@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, My Name is Munish ⚡
 🔭 Bachelors of Technology(Computer Science And Engineering)<br>🌱 I’m currently learning<br>⚛️ Aspiring Ai Generalist<br>👯 Aspiring Software Developer<br>🤔 Here is my Linkedin 💬 📫
 
 
