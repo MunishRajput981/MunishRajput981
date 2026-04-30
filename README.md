@@ -17,8 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 👨🏻‍💻 Developer Logo
-<img width="1000" height="750" alt="logo" src="https://github.com/user-attachments/assets/797b76a3-992a-49b7-bcda-d26bb4ea9017" />
-
-
