@@ -25,7 +25,7 @@
 [![](https://komarev.com/ghpvc/?username=MunishRajput981&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Developer Logo
-<img width="1000" height="500" alt="logo" src="https://github.com/user-attachments/assets/797b76a3-992a-49b7-bcda-d26bb4ea9017" />
+<img width="1000" height="700" alt="logo" src="https://github.com/user-attachments/assets/797b76a3-992a-49b7-bcda-d26bb4ea9017" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
