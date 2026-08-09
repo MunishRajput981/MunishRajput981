@@ -1,3 +1,4 @@
+Hi I am Munish
 # 💫 About Me:
 🔭 Bachelors of Technology(Computer Science And Engineering)<br>🌱 I’m currently learning<br>⚛️ Aspiring Ai Generalist/Engineer<br>👯 Aspiring Software Developer<br>🤔 Here is my Linkedin 💬 📫
 
@@ -17,9 +18,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MunishRajput981&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=MunishRajput981&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🖼️ Logo
 <img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/d249723f-a785-4b67-ae83-1ea6fc8e72cd" />
