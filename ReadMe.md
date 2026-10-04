@@ -16,7 +16,7 @@ Hi I am Munish
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🖼️ Logo
+### 🖼️ Developer Logo
 
 <p align="left">
   <img width="350" alt="Munish Developer Logo" src="https://github.com/user-attachments/assets/471d7ac2-f6b5-4a51-a6be-3c1683648d31" />
