@@ -17,5 +17,8 @@ Hi I am Munish
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🖼️ Logo
-<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/d249723f-a785-4b67-ae83-1ea6fc8e72cd" />
+
+<p align="center">
+  <img width="350" alt="Munish Developer Logo" src="https://github.com/user-attachments/assets/471d7ac2-f6b5-4a51-a6be-3c1683648d31" />
+</p>
 
