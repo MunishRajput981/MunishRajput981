@@ -18,7 +18,7 @@ Hi I am Munish
 
 ### 🖼️ Logo
 
-<p align="center">
+<p align="left">
   <img width="350" alt="Munish Developer Logo" src="https://github.com/user-attachments/assets/471d7ac2-f6b5-4a51-a6be-3c1683648d31" />
 </p>
 
